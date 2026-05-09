@@ -81,42 +81,4 @@ export const videos: Video[] = [
   },
 ]
 
-export const blogPosts: BlogPost[] = [
-  {
-    slug: 'ai-wont-replace-creative-directors',
-    title: 'AI won\'t replace creative directors. Bad creative directors will.',
-    excerpt:
-      'After 25 years in the industry, I\'ve watched a lot of technologies come and go. This one\'s different — but not in the way most people think.',
-    date: '2025-04-28',
-    category: 'Veteran Take',
-    featured: true,
-    readTime: '7 min',
-  },
-  {
-    slug: 'real-ai-stack-for-agency-owners',
-    title: 'The real AI stack I use to run a consulting practice in 2025',
-    excerpt:
-      'No fluff. No affiliate links. Here\'s what I actually open every morning.',
-    date: '2025-04-14',
-    category: 'Build With Me',
-    readTime: '5 min',
-  },
-  {
-    slug: 'why-prompt-engineering-is-a-red-herring',
-    title: 'Why "prompt engineering" is a red herring for most creative teams',
-    excerpt:
-      'Everyone\'s teaching prompts. Nobody\'s teaching creative judgment. That\'s the gap.',
-    date: '2025-03-30',
-    category: 'Agency Operator',
-    readTime: '6 min',
-  },
-  {
-    slug: 'tool-off-claude-vs-gpt-creative-briefs',
-    title: 'Tool-Off: Claude vs GPT-4o for creative briefs',
-    excerpt:
-      'I ran the test I\'d actually care about — not benchmarks, but real creative work with real client context.',
-    date: '2025-03-15',
-    category: 'Tool-Off',
-    readTime: '8 min',
-  },
-]
+export const blogPosts: BlogPost[] = []
