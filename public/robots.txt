@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://askmrai.ai/sitemap.xml
